@@ -1,3 +1,7 @@
+"""
+problem: https://www.acmicpc.net/problem/5430
+"""
+
 import sys
 from collections import deque
 deck = deque()
