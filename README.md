@@ -13,3 +13,10 @@
 #### 문제에 대한 자세한 풀이는 블로그에 있습니다.
 - 블로그 : https://blog.naver.com/dsz08082
 - BOJ solved.ac Profile : https://solved.ac/profile/dsz08082
+
+#### Status
+<div align="center">
+  <a href=""https://solved.ac/dsz08082">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsz08082"]
+  </a>
+</div>
