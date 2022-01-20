@@ -1,0 +1,6 @@
+import sys
+import itertools
+
+n, m = map(int, sys.stdin.readline().split())
+array = sys.stdin.readline().split()
+[print(" ".join(list(map(str, item)))) for item in list(dict.fromkeys(list(itertools.product(sorted(list(map(int, array))), repeat=m))))]
