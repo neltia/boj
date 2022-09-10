@@ -15,6 +15,7 @@
   - dynamic programming
   - backtracking
   - regex
+  - hash_set
 
 #### 문제에 대한 자세한 풀이는 블로그에 있습니다.
 - 블로그 : https://blog.naver.com/dsz08082
